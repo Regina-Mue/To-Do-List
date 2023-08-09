@@ -1,5 +1,5 @@
-# to-do-list-app
-This is a To-Do List
+# To-Do-List
+This is a simple To-Do List.
 
 Made with HTML, CSS, JavaScript
 
